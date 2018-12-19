@@ -1,0 +1,14 @@
+.inner {
+
+}
+
+.inner .one{
+    height: 400px;
+    width: 48%;
+    /* background-color: brown; */
+}
+.inner .two{
+    height: 400px;
+    width: 48%;
+    /* background-color: teal; */
+}

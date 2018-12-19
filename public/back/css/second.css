@@ -1,0 +1,19 @@
+table.table-bordered.table-hover th,
+table.table-bordered.table-hover td{
+    text-align: center;
+    vertical-align: middle;
+}
+.table.table-bordered.table-hover{
+    margin-top: 30px;
+}
+.table.table-bordered.table-hover td img {
+    /* width: 50px; */
+    height: 50px;
+}
+.modal-body img{
+    width: 100px;
+    height: 100px;
+}
+button.btn.btn-default.dropdown-toggle em{
+    font-style: normal;
+}

@@ -1,0 +1,11 @@
+.table.table-bordered{
+    margin-top: 30px;
+}
+.table.table-bordered th,
+.table.table-bordered td{
+    text-align: center;
+    
+}
+/* #text_01{
+    margin: 0 10px;
+} */
